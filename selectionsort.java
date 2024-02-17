@@ -1,6 +1,6 @@
 package internal;
 import java.util.*;
-public class sel 
+public class selectionsort 
 {
 	public static void main(String args[])
 	{
