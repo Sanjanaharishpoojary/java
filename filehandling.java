@@ -1,7 +1,7 @@
 package external;
 import java.io.File;
 import java.util.*;
-public class filehan
+public class filehandling
 {
 	public  static void main(String[] args)
 	{
