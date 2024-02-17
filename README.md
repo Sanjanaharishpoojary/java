@@ -6,3 +6,5 @@
 3.resume.java is the base interface and it has been implemented in student and teacher.java.
 
 4.convmain contains main function and dollarinr , euroinr , yeninr are the subclasses to convert currencies.
+
+5.ksdp is knapsack using dynamic programming.
