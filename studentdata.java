@@ -1,6 +1,6 @@
 package external;
 import java.util.*;
-public class prog2 
+public class studentdata 
 {
 	private String usn;
 	private String name;
@@ -27,7 +27,7 @@ public class prog2
 		Scanner in = new Scanner(System.in);
 		System.out.println("enter how many students");
 		n=in.nextInt();
-		prog2 S[]= new prog2 [n];
+		studentdata S[]= new studentdata [n];
 		for(i=0;i<n;i++)
 		{
 			System.out.println("enter"+(i+1)+"student's info");
