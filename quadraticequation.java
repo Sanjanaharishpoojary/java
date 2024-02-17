@@ -1,6 +1,6 @@
 package external;
 import java.util.*;
-public class qe 
+public class quadraticequation
 {
 	public static void main(String []args)
 	{
