@@ -1,6 +1,6 @@
 package external;
 import java.util.*;
-public class method
+public class methodoverloading
 {
 	public static int mul(int a,int b)
 	{
