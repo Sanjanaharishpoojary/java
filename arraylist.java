@@ -1,6 +1,6 @@
 package external;
 import java.util.*;
-public class arl 
+public class arraylist 
 {
 	ArrayList<String> list= new ArrayList<String>();
 	
@@ -59,7 +59,7 @@ public class arl
 	
 	public static void main(String [] args)
 	{
-		arl s=new arl();
+		arraylist s=new arraylist();
 		s.ardisp();
 		s.app();
 		s.chhar();
